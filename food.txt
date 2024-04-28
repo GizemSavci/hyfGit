@@ -1,6 +1,6 @@
 Foods:
 
--Cookie
+-chocolate
 -Tiramisu
 -Marble cake
 -Kinder Pingui
